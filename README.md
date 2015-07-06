@@ -1,2 +1,2 @@
 # Parallax-Gravity-WP
-WordPress Landing page builder plugin
+Parallax Gravity, a WordPress plugin that allows you to create unlimited landing pages.
